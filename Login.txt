@@ -1,0 +1,1 @@
+Usuario, senha, palavra de recuperação.
